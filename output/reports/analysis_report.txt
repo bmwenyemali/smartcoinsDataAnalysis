@@ -1,0 +1,79 @@
+
+================================================================================
+                    SMARTCOINS DATA ANALYSIS REPORT
+                    Generated: 2026-02-11 00:58:07
+================================================================================
+
+1. DATA OVERVIEW
+----------------
+   Total Coins Analyzed: 93
+   Crypto Coins: 59
+   Meme Coins: 34
+   
+2. SIGNAL DISTRIBUTION
+----------------------
+primary_signal
+STRONG_BUY    82
+BUY           11
+
+3. KEY STATISTICS
+-----------------
+   Average Investment Score: -14273.52
+   Median Investment Score: 54.56
+   Average Risk Score: 40.42
+   Average Momentum Score: -57265.09
+
+4. TOP 5 INVESTMENT OPPORTUNITIES
+---------------------------------
+           coin_name   symbol  investment_score primary_signal
+13              NULS     NULS             76.75            BUY
+11  The Game Company     GMRT             73.04     STRONG_BUY
+16              PEPE    TRUMP             65.00     STRONG_BUY
+22        TRUMP MAGA     MAGA             63.51     STRONG_BUY
+19    I love puppies  PUPPIES             63.06     STRONG_BUY
+
+5. TOP 5 MEME COINS
+-------------------
+               coin_name   symbol  investment_score primary_signal
+16                  PEPE    TRUMP             65.00     STRONG_BUY
+22            TRUMP MAGA     MAGA             63.51     STRONG_BUY
+19        I love puppies  PUPPIES             63.06     STRONG_BUY
+21  PEPE AI (pepeai.one)     PEPE             58.87     STRONG_BUY
+33        [Fake]COINBASE     COIN             58.52     STRONG_BUY
+
+6. LOWEST RISK COINS (TOP 5)
+----------------------------
+        coin_name symbol  risk_score   risk_level
+75         Veloce   VEXT       16.08  Medium Risk
+77   DRUNK ROBOTS  METAL       16.22  Medium Risk
+66  CyberFi Token    CFi       16.30  Medium Risk
+53       apM Coin    APM       16.68     Low Risk
+64   Bitcoin Plus    XBC       18.46  Medium Risk
+
+7. STRONGEST MOMENTUM (TOP 5)
+-----------------------------
+           coin_name symbol  momentum_score  change_momentum
+13              NULS   NULS          107.42             0.70
+96               NKN    NKN           83.22             3.72
+11  The Game Company   GMRT           81.42             1.57
+86            Reploy    RAI           71.61             1.75
+22        TRUMP MAGA   MAGA           67.14             1.71
+
+8. PRICE TIER DISTRIBUTION
+--------------------------
+price_tier
+Micro     42
+Low       39
+Medium     7
+High       5
+
+9. RISK LEVEL DISTRIBUTION
+--------------------------
+risk_level
+Low Risk       51
+Medium Risk    36
+High Risk       6
+
+================================================================================
+                              END OF REPORT
+================================================================================
