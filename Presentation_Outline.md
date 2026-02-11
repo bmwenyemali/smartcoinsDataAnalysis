@@ -10,7 +10,7 @@
 
 - Cryptocurrency Market Intelligence
 - Data Source: SmartCoins App
-- Author: [Your Name]
+- Author: Bienvenu Mwenyemali
 - Date: February 2026
 
 ---

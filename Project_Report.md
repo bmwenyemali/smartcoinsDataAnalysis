@@ -7,7 +7,7 @@
 **Project Name:** SmartCoins Data Analysis Portfolio  
 **Data Source:** SmartCoins App API (https://smartcoinsapp.com/api/coins)  
 **Analysis Period:** February 2026  
-**Author:** [Your Name]
+**Author:** Bienvenu Mwenyemali
 
 ---
 
@@ -465,5 +465,5 @@ See Python script for full column definitions.
 ---
 
 _Report generated for SmartCoins Data Analysis Portfolio Project_  
-_Author: [Your Name]_  
+_Author: Bienvenu Mwenyemali_  
 _Date: February 2026_

@@ -363,5 +363,5 @@ Save screenshots to: `powerbi_screenshots/` folder
 ---
 
 _Created for SmartCoins Data Analysis Portfolio Project_
-_Author: [Your Name]_
+_Author: Bienvenu Mwenyemali_
 _Date: February 2026_
